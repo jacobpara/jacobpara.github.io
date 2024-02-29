@@ -1,0 +1,98 @@
+body {
+	background-image: linear-gradient(to bottom, #000000, #00001f);  
+	color: white;
+	font-family: Helvetica, sans-serif;
+	overflow-x: hidden;
+	margin: 0;
+}
+
+table, tr, td {
+	font-size: 1.1em;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #00002f;
+} 
+
+table {
+	border-spacing: 0px;
+	width: 80%;
+	border: 2px solid #00cc99;
+}
+
+td {
+	padding: 0px, 0px, 0px, 0px;
+	color: orange;
+	width: 40%;
+	border: 1px solid #00cc99;
+}
+
+.span {
+	margin: 0 auto; 
+	width: 100%;
+}
+
+.bar {
+  background-color: orange;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  color: white;
+}
+
+a  {
+  margin: 0px, 20px, 0px, 20px;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+a:hover {
+	background-color: dimgrey;
+}
+
+a:visited {
+	color: white;
+}
+
+img {
+	width: 100%;
+	height: 300px;
+	object-fit: fill;
+	border-radius: 6px;
+} 
+
+td img {
+	object-fit: cover;
+}
+
+.price {
+  background-color: #00cc99; 
+  border: 1px solid grey;
+  border-radius: 7px;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+.price:hover {
+  background-color: #00001f;
+}
+
+b {
+	color: white;
+}
+
+.contact {
+  background-color: #0038b0;
+  width: 100%;
+  min-height: 5%;
+  display: block;
+  padding: 10px 10px 10px 110px;
+}
