@@ -156,6 +156,10 @@ a  {
   font-weight: bold;
 }
 
+.bar:a:link {
+   color: white;	
+}	
+
 a:hover {
 	background-color: dimgrey;
 }
