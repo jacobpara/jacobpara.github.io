@@ -179,7 +179,7 @@ th {
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
-  position: absolute;  /*relative*/
+  position: relative;  /*relative*/
   margin: auto;
   background-color: #262626;
   border-radius: 10px;
