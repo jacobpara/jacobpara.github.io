@@ -102,6 +102,10 @@ img {
   color: white;
 }
 
+.bar a {
+  color: white; /* Set default color of links in the navigation bar to white */
+}
+
 .contact {
   background-color: #0038b0;
   width: 100%;
