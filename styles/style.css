@@ -154,10 +154,6 @@ a  {
   text-decoration: none;
   font-size: 1.2em;
   font-weight: bold;
-}
-
-.bar:a:link {
-   color: white;	
 }	
 
 a:hover {
