@@ -242,7 +242,7 @@ th {
   top: 0;
   background-color: #00cc99;
   border-radius: 10px 0px 10px 0px;
-  margin: 0;	
+  left: 0;	
 }
 
 .active:hover {
